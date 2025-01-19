@@ -1,6 +1,6 @@
 # Привет, меня зовут Игорь!
-👨‍💻 И я начинающий тестировщик веб-приложений (front-end и back-end). Подробнее о моем опыте и навыках можно ознакомится тут 
-[CV](https://drive.google.com/file/d/1f8qqIzgHpxJHEamTF5JKCR_IfY2dPYNg/view?usp=sharing)
+👨‍💻 Я начинающий тестировщик с опытом работы как с веб-приложениями, так и с мобильными приложениями. Подробнее о моем опыте и навыках можно ознакомится тут 
+[CV](https://drive.google.com/file/d/1oN2xSrI_VG2Tz8qONqYM91TpeOz_oKPd/view?usp=sharing)
 
 ## 📫 Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/The_chief_of_kiwi) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kivishevigor@gmail.com)
