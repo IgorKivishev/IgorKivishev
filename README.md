@@ -12,6 +12,7 @@
 ## 📁 Тестовая документация:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/YouTrack-0078D4?style=flat&logo=jetbrains&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=atlassian&logoColor=white)
 
 
 ## 🛠 Тестирование веб-приложений:
@@ -21,14 +22,23 @@
 
 ## 📱 Тестирование мобильных приложений:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![BlueStacks](https://img.shields.io/badge/BlueStacks-00A9E0?style=flat&logo=bluestacks&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles-2E2E2E?style=flat&logo=charles&logoColor=white)
 ![Fiddler](https://img.shields.io/badge/Fiddler-7B3F00?style=flat&logo=fiddler&logoColor=white)
+![HTTP Toolkit](https://img.shields.io/badge/HTTP%20Toolkit-1A1A1A?style=flat&logo=http%20toolkit&logoColor=white)
+
+## 🎨 Работа с макетами:
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FF2D20?style=flat&logo=miro&logoColor=white)
 
 ## 💾 Работа с данными:
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
+## 🚀 Производительность и тестирование:
+![JMeter](https://img.shields.io/badge/JMeter-F27C28?style=flat&logo=apachejmeter&logoColor=white)
 
 ## ✏️ Работа с кодом:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
