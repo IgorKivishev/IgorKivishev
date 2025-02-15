@@ -1,6 +1,6 @@
 # Привет, меня зовут Игорь!
-👨‍💻 Я тестировщик с опытом работы как с веб-приложениями, так и с мобильными приложениями. Подробнее о моем опыте и навыках можно ознакомится тут 
-[CV](https://drive.google.com/file/d/1oN2xSrI_VG2Tz8qONqYM91TpeOz_oKPd/view?usp=sharing)
+👨‍💻 Я тестировщик с опытом работы web-приложений (frontend & backend), так и с мобильными приложениями. Подробнее о моем опыте и навыках можно ознакомится тут 
+[CV](https://drive.google.com/file/d/1zAbLApZTxMo2-kARMo74mWY6W4jZwt7-/view?usp=sharing)
 
 ## 📫 Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/The_chief_of_kiwi) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kivishevigor@gmail.com)
@@ -11,6 +11,7 @@
 
 ## 📁 Тестовая документация:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-0078D4?style=flat&logo=jetbrains&logoColor=white)
 
 
 ## 🛠 Тестирование веб-приложений:
