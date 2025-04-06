@@ -1,6 +1,6 @@
 # Hello, my name is Igor!
 👨‍💻  I'm a QA Engineer with experience in both web (frontend & backend) and mobile applications testing. You can learn more about my experience and skills here:
-[CV-en](https://drive.google.com/file/d/1QOEWZGY6nashcKBm8PBqhQYzy_t4fugB/view?usp=drive_link)/[CV-ru](https://drive.google.com/file/d/1KNCX4nQ81vRw_8mao62UhFiX7selskKQ/view?usp=drive_link)
+[CV-en](https://drive.google.com/file/d/1QOEWZGY6nashcKBm8PBqhQYzy_t4fugB/view?usp=drive_link) and [CV-ru](https://drive.google.com/file/d/1KNCX4nQ81vRw_8mao62UhFiX7selskKQ/view?usp=drive_link)
 
 ## 📫 How to contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/The_chief_of_kiwi) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kivishevigor@gmail.com)
